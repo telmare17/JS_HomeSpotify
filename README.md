@@ -13,7 +13,6 @@ Adicionalmente, foi criada uma **API fake** utilizando **JSON** e **Node.js** pa
 - 🖼️ Cards interativos com imagens e nomes de playlists
 - 🎉 Seção para criar playlists
 - 🌍 Suporte para múltiplos idiomas
-- 📱 Layout responsivo para dispositivos móveis
 - 🔗 **API Fake** com dados simulados em JSON, utilizando **Node.js**
 
 ## 🛠️ Tecnologias Usadas

@@ -1,4 +1,5 @@
 # 🎶 **JS Home Spotify** 🎶
+![Gravação de Tela 2025-02-02 202231](https://github.com/user-attachments/assets/428cc212-0cb9-4bac-8b4e-f1bc464d8476)
 
 ## 🚀 Descrição
 
